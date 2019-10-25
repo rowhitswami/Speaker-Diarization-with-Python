@@ -6,6 +6,8 @@ It can enhance the readability of an automatic speech transcription by structuri
 
 ![Speaker Diarization](speaker.jpeg)
 
+*An image illustrating working of Speaker Diarization*
+
 
 ## Why Speaker Diarization?
 The diarization task is a necessary pre-processing step for speaker identification or speech transcription when there is more than one speaker in an audio/video recording. 
